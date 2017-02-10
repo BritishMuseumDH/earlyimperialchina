@@ -1,0 +1,15 @@
+t1=Leaves are collected from mulberry trees and chopped up for the silkworms.
+
+&t2=Silkworms are put in a basket with mulberry leaves, their favourite food.
+
+&t3=While eating, the silkworms are kept warm so that they do not die.
+
+&t4=Before they emerge as moths they are held over steam and killed.
+
+&t5=A worker combines strands from several cocoons to make one single thread.
+
+&t6=The threads are woven into fabric.
+
+&reward=Silk was produced mainly in eastern China, in places like Suzhou and Hangzhou. It was used in the production of clothes. Fine silk clothing was worn by the wealthy with a slightly coarser fabric worn by others. Silk fabric panels were also used for writing and painting on. Silk was very highly valued. From the Han dynasty onward silk became the major product traded along the Silk Road.
+&right=Well Done! You have placed all the pictures in the correct order. To find out more about silk in China press the 'get reward' button.
+&wrong=You have not placed the pictures in the correct order. To continue, please close this message box.

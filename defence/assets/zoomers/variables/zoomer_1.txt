@@ -1,0 +1,1 @@
+_magVar1=1.5&_magVar2=2&image1=zoomers/blank.swf&image2=zoomers/zoomer_1.swf&hex=0x0000FF&max_zoom=200&DATA=l_oaded

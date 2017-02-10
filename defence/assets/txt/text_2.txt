@@ -1,0 +1,1 @@
+text_field=This was one of the main weapons used by the armies.<br><br>The scabbard was lacquered and had wooden fittings. The fittings are carved with the designs of dragons and snakes. The blade is made of iron and the hilt is made of wood.<br><font color="#666666">oa1978.12-18.1</font>&text_type="a"

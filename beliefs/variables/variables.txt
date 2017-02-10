@@ -1,0 +1,1 @@
+_magVar1=1.5&_magVar2=2&image1=swfs/tile_small.swf&image2=swfs/tile_large.swf&hex=0xFD5D8D&max_zoom=200&DATA=l_oaded

@@ -1,0 +1,164 @@
+Movie Report
+-------------
+FrameFrame #    Frame Bytes    Total Bytes    Page
+------------    -----------    -----------    ---------------
+    1         48837          48837        loader
+    2         97485         146322        Scene 1
+    3          3108         149430          2
+
+Page                       Shape Bytes    Text Bytes
+-----------------------    -----------    ----------
+loader                            0             0
+Scene 1                           0           107
+
+Embedded Objects                 76             0
+
+Page                       Symbol Bytes    Text Bytes
+-----------------------    ------------    ----------
+Symbol 128                       41             0
+Symbol 124                       45             0
+narrowbeam                      196             0
+widebeam                        209             0
+dummy                             0             0
+total_controller                  0             0
+gradiwent                         0             0
+bckgrd_room                       0             0
+mask1                            45             0
+mask1 copy                       56             0
+carousel1                         0             0
+carousel2                         0             0
+image_bckgrd                     45             0
+image_special                     0           421
+cover_black                      46             0
+mask_layer                        0             0
+back_button                      42           242
+more_button                      43           242
+8                                 0             0
+2                                 0             0
+3                                 0             0
+4                                 0             0
+5                                 0             0
+6                                 0             0
+7                                 0             0
+9                                 0             0
+1                                 0             0
+0                                 0             0
+eight                             0             0
+bckgrd_cover                      0             0
+light                           162             0
+light copy                        0             0
+bckgrd_graphic                    0             0
+zoom_out_button_movie             0             0
+zoomin_button_movie               0             0
+image_display                     0             0
+carousel_small mask               0             0
+text_grpahic                      0             0
+ruler                             0             0
+mask_carusel                     45             0
+mask_carusel copy                54             0
+messages                         45            64
+carousel_graphic                  0             0
+target                            0             0
+zoomout                           0             0
+zoomin                            0             0
+image                             0             0
+inv_button                        0             0
+carousel                          0             0
+car_base                          0             0
+other carousels                   0             0
+back ground                       0             0
+band                              0             0
+controller                        0             0
+buttons                           0             0
+blue projector graphic            0             0
+lens 2                            0             0
+projector and stand               0             0
+seperate projetor parts           0             0
+projector stand and pole          0             0
+screen                            0             0
+screen mask layer                 0             0
+screen movie clip                 0             0
+text overlay                      0             0
+bck_trans_try                    34             0
+TextPager                         0             0
+TextPager_backBtn                 0             0
+TextPager_moreBtn                 0             0
+text overlay bg                   0             0
+Preloader                        38            48
+fill_preloader                   37             0
+mask                             44             0
+frameChecker                      0            41
+masking movie                     0             0
+bckgrd                            0             0
+maskedObject                      0             0
+Symbol 23                         0             0
+Symbol 67                         0             0
+Symbol 95                         0             0
+Symbol 95 copy 5                  0             0
+Symbol 95 copy 6                  0             0
+Symbol 95 copy 4                  0             0
+Symbol 78                         0             0
+Symbol 24                         0             0
+carousel graphic              13609             0
+clear carousel cover           1418             0
+blue projector graphic_new        0             0
+white projector               34337             0
+white carousel bay             3159             0
+inner ring for carousel        2374             0
+controller display            13393             0
+number 02                         0             0
+digit basic                     224             0
+controller_new                    0             0
+new controller base            6609             0
+button 2                          0             0
+button base                    2281             0
+arrow button_OVER              1190             0
+red arrow.                     1197             0
+screenmmmmmm                      0             0
+zoom in button                    0             0
+zoom display button_complete        0             0
+zoom button                    3837             0
+display                        8572             0
++ magnifying glass graphic     2408             0
+over_magnifying glass graphic     1366             0
+hit_magnifying glass graphic     1341             0
+zoom out button                   0             0
+minus magnifying glass graphic     1605             0
+over magnifying glass graphic     1164             0
+hit magnifying glass graphic     1302             0
+screen_new                        0             0
+blacked out screen grpahic     1809             0
+landscape slide outline           0             0
+bands                            60             0
+loading_symbol                    0             0
+loading_t1                        0            40
+loading_t2                        0            47
+loading_t3                        0            58
+loading_t4                        0            47
+Pastimes_label                    0             0
+label                             0             0
+Pastimes text                     0             0
+Riches_label                      0             0
+Riches text                       0             0
+hand _ fist                       0             0
+hand _ open                       0             0
+hand cursor                       0             0
+the great wall label              0             0
+label                           234             0
+the great wall text               0           444
+tomb objects label                0             0
+tomb objects text              1527             0
+
+Bitmap                     Compressed    Compression
+-----------------------    ----------  --------  -----------
+fist.gif                          74         256   Lossless
+hand.gif                          89         256   
+
+
+Sound name                 Bytes        Format    
+-----------------------    ---------    ----------
+Arial Bold                   1992         ,.ACUacdefghijklmnoprstuyz
+Arial Italic                   20        
+Arial                        1408         .BPadeghilmnostw
+Verdana                        22        
+_sans                          20        

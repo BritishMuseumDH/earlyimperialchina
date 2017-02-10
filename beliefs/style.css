@@ -1,0 +1,47 @@
+  body {
+	background-color: Black;
+	color: Black;
+}
+ :link {
+	color:  #FFCC33;
+	background-color : transparent;
+}
+ :visited {
+	color: #FFCC33;
+	background-color : transparent;
+}
+ :active {
+	color: #FFCC33;
+	background-color : transparent;
+}
+td {
+	font-family: helvetica,arial,sans-serif;
+	vertical-align : top;
+	color : White;
+}
+td.main {
+	background-color :#00000;
+	color : Black;
+	width : 420px;
+}
+h3 {
+	text-align : center;
+	color : White;
+}
+div.caption {
+	font-size : 75%;
+	text-align : center;
+	color : #500C21;
+}
+div.im_l {
+	font-size : 75%;
+	text-align : center;
+	color : #cccccc;
+	float : left;
+}
+div.im_r {
+	font-size : 75%;
+	text-align : center;
+	color : #cccccc;
+	float : right;
+}

@@ -1,0 +1,171 @@
+Movie Report
+-------------
+FrameFrame #    Frame Bytes    Total Bytes    Page
+------------    -----------    -----------    ---------------
+    1         13388          13388        Scene 1
+    2         42747          56135          2
+    3         21202          77337          3
+    4            85          77422          4
+    5            90          77512          5
+    6            90          77602          6
+    7           445          78047          7
+    8             2          78049          8
+    9             2          78051          9
+   10           807          78858          10
+   11            10          78868          11
+
+Page                       Shape Bytes    Text Bytes
+-----------------------    -----------    ----------
+Scene 1                          32             0
+
+Embedded Objects                360             0
+
+Page                       Symbol Bytes    Text Bytes
+-----------------------    ------------    ----------
+sdasfsafsaf                       0             0
+notice                            0             0
+b_stripe                          0             0
+book_test                         0             0
+topcover                          0             0
+book_cover                        0             0
+checker                           0             0
+Symbol 294                        0             0
+bckgrdPage                        0             0
+bckgrd_graphic                    0             0
+loggingMovie                      0             0
+menu_top                         44             0
+dragger                          87             0
+scroll_minus                     58             0
+scroll_Cross                     88             0
+log_movie                       109            39
+frameChecker                      0            41
+menui                             0             0
+_inv_Button                       0             0
+visualAid                         0             0
+ccc                               0             0
+button                           63             0
+buttonLeft                       45             0
+button copy                       0             0
+button copy 2                     0             0
+dummy                             0             0
+dummypageBckGrd                   0             0
+dummyTest                         0             0
+dummy1                            0             0
+dummy2                            0             0
+totalBckgrd                       0             0
+bckGrd_pages                      0             0
+BckGrd                            0             0
+textGraphicPng                    0             0
+textGraphic                       0             0
+picture                           0             0
+text0                             0             0
+text1                             0             0
+text2                             0             0
+text3                             0             0
+text4                             0             0
+mouseFinder                       0             0
+backPage                          0             0
+doublePage                        0             0
+t2__Content                       0             0
+content1                          0             0
+content2                          0             0
+content3                          0             0
+content4                          0             0
+content5                          0             0
+content5 copy                     0             0
+content6                          0             0
+content0                          0             0
+t2_content                        0             0
+t1_content                        0             0
+marker                            0             0
+marker1                           0             0
+marker2                           0             0
+marker3                           0             0
+marker4                           0             0
+marker5                           0             0
+marker6                           0             0
+marker7                           0             0
+marker8                           0             0
+book                              0           139
+test                              0            45
+newOne                            0             0
+test1                             0            47
+p2_Clip                           0            34
+p1_Clip                           0             0
+t2                                0             0
+inv_B                             0             0
+_onSound                          0             0
+menu                              0             0
+bckGrd_menu2                      0             0
+control_buttons                   0             0
+buttons_bckgrd                    0             0
+dummy                             0             0
+right_bttn                        0             0
+arrow                             0             0
+hit                               0             0
+up_bttn                           0             0
+left_bttn                         0             0
+down_bttn copy                    0             0
+circle                            0             0
+left                              0             0
+left_alt                          0             0
+down                              0             0
+down_alt                          0             0
+right                             0             0
+right_alt                         0             0
+up                                0             0
+up_alt                            0             0
+zoom                              0             0
+zoomin_bttn                       0             0
+plus                              0             0
+Symbol 14                         0             0
+zoomout_bttn                      0             0
+minus                             0             0
+Symbol 11                         0             0
+zoomin                            0             0
+zoomin_alt                        0             0
+zoomout                           0             0
+zoomout_alt                       0             0
+reset                             0             0
+reset_bttn                        0             0
+refresh                           0             0
+Symbol 17                         0             0
+reset                             0             0
+reset_alt                         0             0
+magnifier                         0             0
+mouse+                            0             0
+zoomin                            0             0
+mask                              0             0
+cover                             0             0
+shadow                           45             0
+Preloader                         0            48
+fill_preloader                    0             0
+page_bckGrd_left                  0             0
+innerDummy                        0             0
+ pieSymbol                        0             0
+baseCircle                       73             0
+rightHalf                         0             0
+rightHalfCircle                  75             0
+square                           39             0
+leftHalf                          0             0
+leftHalfCircle                   75             0
+hand _ fist                       0             0
+hand _ open                       0             0
+hand cursor                       0            59
+
+Bitmap                     Compressed    Compression
+-----------------------    ----------  --------  -----------
+bookmark_mid                     767       11448   Lossless
+bookmark_top                     192         180   
+bookmark_bot                     434        1872   
+13                             16966      326400   
+loading.gif                      568       42920   
+grab.gif                         872        2312   
+hand.gif                          89         256   
+
+
+Sound name                 Bytes        Format    
+-----------------------    ---------    ----------
+Arial                        1120         Gabegnoprtu
+Verdana                       613         12eprtux
+_sans                          20        

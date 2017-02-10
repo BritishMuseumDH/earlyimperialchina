@@ -1,0 +1,43 @@
+  body {
+	background-color: White;
+	color: black;
+}
+ :link {
+	color: #428484;
+	background-color : transparent;
+}
+ :visited {
+	color: Gray;
+	background-color : transparent;
+}
+ :active {
+	color: Navy;
+	background-color : transparent;
+}
+
+td {
+	font-family: arial,helvetica,sans-serif;
+	vertical-align : top;
+	font-size : 80%;
+}
+
+H3 {
+	color : BLACK;
+	font-size : x-large;
+	font-family: times,helvetica,sans-serif;
+	background-color : transparent;
+	text-align : center
+}
+
+DIV.bold {
+	color : black;
+	font-size : medium;
+	background-color : transparent;
+	text-align : center;
+}
+
+DIV.head {
+	color : gray;
+	font-size : medium;
+	background-color : transparent;
+}

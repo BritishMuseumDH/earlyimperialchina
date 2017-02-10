@@ -1,0 +1,15 @@
+t1=The tea leaves are picked.
+
+&t2=The leaves are laid out to dry.
+
+&t3=The dry leaves are roasted and then broken down.
+
+&t4=The roasted tea is put into chests to be stored and sold.
+
+&t5=Before the tea is sold it is inspected.
+
+&reward=Tea was mainly used, from the Han dynasty onward, in the South as a medicinal herb. After the Tang dynasty it became more popular all over the country and was soon a major item for trade. During the 17th century A.D. tea was introduced by merchants to Britain. In 1684 five chests of tea were exported from China, by 1800 23 million pounds of tea were being exported to Britain each year. Today tea is bought from China and other countries too including India, Sri Lanka and Kenya.
+
+&right=Well Done! You have placed all the pictures in the correct order. To find out more about tea in China press the 'get reward' button.
+
+&wrong=You have not placed the pictures in the correct order. To continue, please close this message box.

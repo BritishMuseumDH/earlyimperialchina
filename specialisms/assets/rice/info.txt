@@ -1,0 +1,9 @@
+t1=The <u><font color="#990000"><a href="javascript:openGlos('glossary/p/paddy_fields.html','padd')">paddy fields</a></font></u> are prepared for sowing.
+&t2=When the seed is sown the fields are <u><font color="#990000"><a href="javascript:openGlos('glossary/i/irrigated.html','irri')">irrigated</a></font></u> with water.
+&t3=Once fully grown the rice is cut and bundled.
+&t4=The rice is <u><font color="#990000"><a href="javascript:openGlos('glossary/t/threshed.html','thre')">threshed</a></font></u> so the grain and stalks are separated.
+&t5=The grain is sorted according to size.
+&t6=The grain is stored in a <u><font color="#990000"><a href="javascript:openGlos('glossary/g/granary.html','gran')">granary</a></font></u>. An offering is made to the gods to protect the grain.
+&reward=Rice grew in western and southern areas such as Sichuan and Hunan. At first only one crop of rice could be grown in a year. Later in the Tang dynasty double cropping rice was grown to increase the amount of food available to the growing population. The three traditional crops of wheat, barley and millet grew in the North. They were difficult to grow because of poor conditions caused by extremes of temperatures. Improved methods of <u><font color="#990000"><a href="javascript:openGlos('glossary/i/irrigated.html','irri')">irrigation</a></font></u> meant that in later dynasties the crops could grow further north.
+&right=Well Done! You have placed all the pictures in the correct order. To find out more about rice growing in China press the 'get reward' button.
+&wrong=You have not placed the pictures in the correct order. To continue, please close this message box.

@@ -1,0 +1,274 @@
+
+<HTML>
+<HEAD>
+<TITLE>Globe</TITLE>
+<SCRIPT language="JavaScript" type="text/javascript"><!--
+
+var maps = new Array();
+
+// add any image maps created to the maps array
+maps[0] = "#globe1";
+maps[1] = "#globe2";
+maps[2] = "#globe3";
+maps[3] = "#globe4";
+maps[4] = "#globe5";
+maps[5] = "#globe6";
+maps[6] = "#globe7";
+maps[7] = "#globe8";
+maps[8] = "#globe9";
+maps[9] = "#globe10";
+
+var imgs=new Array();
+var i=0;
+
+// add any images to the imgs array
+imgs[0]="images/1.jpg";
+imgs[1]="images/2.jpg";
+imgs[2]="images/3.jpg";
+imgs[3]="images/4.jpg";
+imgs[4]="images/5.jpg";
+imgs[5]="images/6.jpg";
+imgs[6]="images/7.jpg";
+imgs[7]="images/8.jpg";
+imgs[8]="images/9.jpg";
+imgs[9]="images/10.jpg";
+
+function backward(){
+if (i > 0){
+window.status='';
+i--;
+document.images.mapslider.src = imgs[i];
+// not ns 4!!
+document.images.mapslider.useMap = maps[i];
+}
+}
+
+function forward(){
+if (i < imgs.length-1){
+i++;
+document.images.mapslider.src = imgs[i];
+// not ns 4!!
+document.images.mapslider.useMap = maps[i];
+}
+else window.status='End of gallery';
+}
+
+function MM_preloadImages() {
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() {
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) {
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && document.getElementById) x=document.getElementById(n); return x;
+}
+
+function MM_swapImage() {
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function MM_displayStatusMsg(msgStr) { //v1.0
+  status=msgStr;
+  document.MM_returnValue = true;
+}
+
+MM_preloadImages('images/1.jpg','images/2.jpg','images/3.jpg','images/4.jpg','images/5.jpg','images/6.jpg','images/7.jpg','images/8.jpg','images/9.jpg','images/10.jpg','images/text_blanker.gif','images/abuja.gif','images/bagdad.gif','images/bangkok.gif','images/beijing.gif','images/bogota.gif','images/brasilia.gif','images/buenos_aires.gif','images/cairo.gif','images/canberra.gif','images/capetown.gif','images/colombo.gif','images/hanoi.gif','images/islamabad.gif','images/kabul.gif','images/khartoum.gif','images/lima.gif','images/london.gif','images/madrid.gif','images/mexico.gif','images/moscow.gif','images/nairobi.gif','images/new_delhi.gif','images/ottawa.gif','images/rome.gif','images/santiago.gif','images/singapore.gif','images/tokyo.gif');
+
+//-->
+</SCRIPT>
+</HEAD>
+<BODY>
+<MAP name="globe1">
+<AREA alt="Tokyo, Japan" coords="193,127,213,147" href="Tokyo, Japan" onMouseOver="MM_swapImage('text_blanker','','images/tokyo.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Canberra, Australia" coords="194,261,219,285" href="canberra" onMouseOver="MM_swapImage('text_blanker','','images/canberra.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Singapore, Singapore" coords="123,196,147,218" href="singapore" onMouseOver="MM_swapImage('text_blanker','','images/singapore.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Bangkok, Thailand" coords="112,168,138,192" href="bangkok" onMouseOver="MM_swapImage('text_blanker','','images/bangkok.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Hanoi, Vietnam" coords="131,158,153,180" href="hanoi" onMouseOver="MM_swapImage('text_blanker','','images/hanoi.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Beijing, China" coords="145,113,171,141" href="beijing" onMouseOver="MM_swapImage('text_blanker','','images/beijing.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Colombo, Sri Lanka" coords="65,187,87,207" href="columbo" onMouseOver="MM_swapImage('text_blanker','','images/colombo.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="New Delhi, India" coords="63,142,83,158" href="newdelhi" onMouseOver="MM_swapImage('text_blanker','','images/new_delhi.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Islamabad, Pakistan" coords="59,147,78,128" href="islamabad" onMouseOver="MM_swapImage('text_blanker','','images/islamabad.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Nairobi, Kenya" coords="1,200,17,215" href="nairobi" onMouseOver="MM_swapImage('text_blanker','','images/nairobi.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Khartoum, Sudan" coords="2,164,21,184" href="khartoum" onMouseOver="MM_swapImage('text_blanker','','images/khartoum.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Bagdad, Iraq" coords="23,130,36,149" href="bagdad" onMouseOver="MM_swapImage('text_blanker','','images/bagdad.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Cairo, Egypt" coords="7,137,23,158" href="cairo" onMouseOver="MM_swapImage('text_blanker','','images/cairo.gif',1)" onMouseOut="MM_swapImgRestore()">
+</MAP>
+<MAP name="globe2">
+<AREA alt="Canberra, Australia" coords="138,267,164,291" href="canberra" onMouseOver="MM_swapImage('text_blanker','','images/canberra.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Tokyo, Japan" coords="123,124,147,149" href="Tokyo, Japan" onMouseOver="MM_swapImage('text_blanker','','images/tokyo.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="beijing, China" coords="74,116,94,138" href="beijing" onMouseOver="MM_swapImage('text_blanker','','images/beijing.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Hanoi, Vietnam" coords="48,156,69,174" href="hanoi" onMouseOver="MM_swapImage('text_blanker','','images/hanoi.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Singapore, Singapore" coords="43,197,58,213" href="singapore" onMouseOver="MM_swapImage('text_blanker','','images/singapore.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Kabul, Afganistan" coords="9,125,32,143" href="kabul" onMouseOver="MM_swapImage('text_blanker','','images/kabul.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="New Delhi, India" coords="6,141,30,155" href="newdelhi" onMouseOver="MM_swapImage('text_blanker','','images/new_delhi.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Columbo, Sri Lanka" coords="4,178,22,203" href="columbo" onMouseOver="MM_swapImage('text_blanker','','images/colombo.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Wellington, New Zealand" coords="186,274,207,296" href="wellington" onMouseOver="MM_swapImage('text_blanker','','images/wellington.gif',1)" onMouseOut="MM_swapImgRestore()">
+</MAP>
+<MAP name="globe3">
+<AREA alt="Wellington, New Zealand" coords="117,279,139,298" href="wellington" onMouseOver="MM_swapImage('text_blanker','','images/wellington.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Canberra, Australia" coords="63,267,84,289" href="canberra" onMouseOver="MM_swapImage('text_blanker','','images/canberra.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Beijing, China" coords="23,120,47,139" href="beijing" onMouseOver="MM_swapImage('text_blanker','','images/beijing.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Hanoi, Vietnam" coords="3,157,23,175" href="hanoi" onMouseOver="MM_swapImage('text_blanker','','images/hanoi.gif',1)" onMouseOut="MM_swapImgRestore()">
+</MAP>
+<MAP name="globe4">
+<AREA alt="Mexico City, Mexico" coords="215,152,240,175" href="mexico_city" onMouseOver="MM_swapImage('text_blanker','','images/mexico.gif',1)" onMouseOut="MM_swapImgRestore()">
+</MAP>
+<MAP name="globe5">
+<AREA alt="Ottawa, Canada" coords="179,101,202,124" href="ottawa" onMouseOver="MM_swapImage('text_blanker','','images/ottawa.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Washington DC, USA" coords="183,119,209,141" href="washingtondc" onMouseOver="MM_swapImage('text_blanker','','images/washington.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Mexico City, Mexico" coords="153,162,172,180" href="mexico_city" onMouseOver="MM_swapImage('text_blanker','','images/mexico.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Bogota, Columbia" coords="208,187,229,207" href="bogota" onMouseOver="MM_swapImage('text_blanker','','images/bogota.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Lima, Peru" coords="202,220,225,239" href="lima" onMouseOver="MM_swapImage('text_blanker','','images/lima.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Santiago, Chile" coords="201,253,218,279" href="santiago" onMouseOver="MM_swapImage('text_blanker','','images/santiago.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Buenos Aires, Argentina" coords="216,256,236,277" href="buenos_aires" onMouseOver="MM_swapImage('text_blanker','','images/buenos_aires.gif',1)" onMouseOut="MM_swapImgRestore()">
+</MAP>
+<MAP name="globe6">
+<AREA alt="Ottawa, Canada" coords="117,107,141,122" href="ottawa" onMouseOver="MM_swapImage('text_blanker','','images/ottawa.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Washington DC, USA" coords="120,123,139,138" href="washingtondc" onMouseOver="MM_swapImage('text_blanker','','images/washington.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Mexico City, Mexico" coords="68,161,87,179" href="mexico_city" onMouseOver="MM_swapImage('text_blanker','','images/mexico.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Bogota, Columbia" coords="128,191,151,212" href="bogota" onMouseOver="MM_swapImage('text_blanker','','images/bogota.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Lima, Peru" coords="119,221,147,242" href="lima" onMouseOver="MM_swapImage('text_blanker','','images/lima.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Brasilia, Brazil" coords="186,225,212,251" href="brasilia" onMouseOver="MM_swapImage('text_blanker','','images/brasilia.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Buenos Aires, Argentina" coords="160,263,180,284" href="buenos_aires" onMouseOver="MM_swapImage('text_blanker','','images/buenos_aires.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Santiago, Chile" coords="133,258,153,284" href="santiago" onMouseOver="MM_swapImage('text_blanker','','images/santiago.gif',1)" onMouseOut="MM_swapImgRestore()">
+</MAP>
+<MAP name="globe7">
+<AREA alt="London, United Kingdom" coords="181,99,198,114" href="london" onMouseOver="MM_swapImage('text_blanker','','images/london.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Madrid, Spain" coords="186,119,208,136" href="madrid" onMouseOver="MM_swapImage('text_blanker','','images/madrid.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Rome, Italy" coords="209,119,227,134" href="rome" onMouseOver="MM_swapImage('text_blanker','','images/rome.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Abuja, Nigeria" coords="216,177,245,204" href="abuja" onMouseOver="MM_swapImage('text_blanker','','images/abuja.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Brasilia, Brazil" coords="106,230,129,248" href="brasilia" onMouseOver="MM_swapImage('text_blanker','','images/brasilia.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Buenos Aires, Argentina" coords="84,266,102,283" href="buenos_aires" onMouseOver="MM_swapImage('text_blanker','','images/buenos_aires.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Santiago, Chile" coords="59,260,76,280" href="santiago" onMouseOver="MM_swapImage('text_blanker','','images/santiago.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Lima, Peru" coords="37,218,60,239" href="lima" onMouseOver="MM_swapImage('text_blanker','','images/lima.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Bogota, Columbia" coords="45,188,69,208" href="bogota" onMouseOver="MM_swapImage('text_blanker','','images/bogota.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Mexico City, Mexico" coords="10,155,29,173" href="mexico_city" onMouseOver="MM_swapImage('text_blanker','','images/mexico.gif',1)" onMouseOut="MM_swapImgRestore()">
+</MAP>
+<MAP name="globe8">
+<AREA alt="London, United Kingdom" coords="132,94,150,111" href="london" onMouseOver="MM_swapImage('text_blanker','','images/london.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Moscow, Russia" coords="172,86,192,106" href="moscow" onMouseOver="MM_swapImage('text_blanker','','images/moscow.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Rome, Italy" coords="158,119,176,135" href="rome" onMouseOver="MM_swapImage('text_blanker','','images/rome.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Madrid, Spain" coords="125,116,144,138" href="madrid" onMouseOver="MM_swapImage('text_blanker','','images/madrid.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Abuja, Nigeria" coords="152,178,172,198" href="abuja" onMouseOver="MM_swapImage('text_blanker','','images/abuja.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Cairo, Egypt" coords="195,139,215,155" href="cairo" onMouseOver="MM_swapImage('text_blanker','','images/cairo.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Bagdad, Iraq" coords="209,133,229,150" href="bagdad" onMouseOver="MM_swapImage('text_blanker','','images/bagdad.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Khartoum, Sudan" coords="206,167,223,188" href="khartoum" onMouseOver="MM_swapImage('text_blanker','','images/khartoum.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Nairobi, Kenya" coords="211,203,233,225" href="nairobi" onMouseOver="MM_swapImage('text_blanker','','images/nairobi.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Cape Town, South Africa" coords="169,266,188,285" href="cape_town" onMouseOver="MM_swapImage('text_blanker','','images/capetown.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Bogata, Columbia" coords="-2,187,15,205" href="bogota" onMouseOver="MM_swapImage('text_blanker','','images/bogota.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Lima, Peru" coords="-1,213,18,233" href="lima" onMouseOver="MM_swapImage('text_blanker','','images/lima.gif',1)" onMouseOut="MM_swapImgRestore()">
+</MAP>
+<MAP name="globe9">
+<AREA alt="Moscow, Russia" coords="132,92,147,105" href="moscow" onMouseOver="MM_swapImage('text_blanker','','images/moscow.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Rome, Italy" coords="87,113,107,133" href="rome" onMouseOver="MM_swapImage('text_blanker','','images/rome.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Bagdad, Iraq" coords="145,128,167,148" href="bagdad" onMouseOver="MM_swapImage('text_blanker','','images/bagdad.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Cairo, Egypt" coords="121,137,143,158" href="cairo" onMouseOver="MM_swapImage('text_blanker','','images/cairo.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Khartoum, Sudan" coords="128,167,151,187" href="khartoum" onMouseOver="MM_swapImage('text_blanker','','images/khartoum.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Abuja, Nigeria" coords="61,179,84,201" href="abuja" onMouseOver="MM_swapImage('text_blanker','','images/abuja.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Nairobi, Kenya" coords="137,205,158,224" href="nairobi" onMouseOver="MM_swapImage('text_blanker','','images/nairobi.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Cape Town, South Africa" coords="93,266,115,288" href="cape_town" onMouseOver="MM_swapImage('text_blanker','','images/capetown.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Colombo, Sri Lanka" coords="221,184,238,200" href="columbo" onMouseOver="MM_swapImage('text_blanker','','images/colombo.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="New Delhi, India" coords="213,144,227,158" href="newdelhi" onMouseOver="MM_swapImage('text_blanker','','images/new_delhi.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Kabul, Afganistan" coords="195,124,207,145" href="kabul" onMouseOver="MM_swapImage('text_blanker','','images/kabul.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Islamabad, Pakistan" coords="207,145,217,122" href="islamabad" onMouseOver="MM_swapImage('text_blanker','','images/islamabad.gif',1)" onMouseOut="MM_swapImgRestore()">
+</MAP>
+<MAP name="globe10">
+<AREA alt="Abuja, Nigeria" coords="5,178,22,194" href="abuja" onMouseOver="MM_swapImage('text_blanker','','images/abuja.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Nairobi, Kenya" coords="55,203,72,223" href="nairobi" onMouseOver="MM_swapImage('text_blanker','','images/nairobi.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Kartoum, Sudan" coords="46,167,68,184" href="khartoum" onMouseOver="MM_swapImage('text_blanker','','images/khartoum.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Bagdad, Iraq" coords="72,133,92,149" href="bagdad" onMouseOver="MM_swapImage('text_blanker','','images/bagdad.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Madrid, Spain" coords="19,117,38,133" href="madrid" onMouseOver="MM_swapImage('text_blanker','','images/madrid.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Moscow, Russia" coords="79,90,99,106" href="moscow" onMouseOver="MM_swapImage('text_blanker','','images/moscow.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Colombo, Sri Lanka" coords="151,184,174,205" href="columbo" onMouseOver="MM_swapImage('text_blanker','','images/colombo.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Singapore, Singapore" coords="206,195,227,216" href="singapore" onMouseOver="MM_swapImage('text_blanker','','images/singapore.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Beijing, China" coords="205,122,223,142" href="beijing" onMouseOver="MM_swapImage('text_blanker','','images/beijing.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Kabul, Afganistan" coords="120,125,141,147" href="kabul" onMouseOver="MM_swapImage('text_blanker','','images/kabul.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Islamabad, Pakistan" coords="140,147,150,123" href="islamabad" onMouseOver="MM_swapImage('text_blanker','','images/islamabad.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="New Delhi, India" coords="145,141,164,158" href="newdelhi" onMouseOver="MM_swapImage('text_blanker','','images/new_delhi.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Bangkok, Thailand" coords="199,174,221,190" href="bangkok" onMouseOver="MM_swapImage('text_blanker','','images/bangkok.gif',1)" onMouseOut="MM_swapImgRestore()">
+<AREA alt="Hanoi, Vietnam" coords="205,170,225,156" href="hanoi" onMouseOver="MM_swapImage('text_blanker','','images/hanoi.gif',1)" onMouseOut="MM_swapImgRestore()">
+</MAP>
+<TABLE width="680" border="0" align="center" cellpadding="0" cellspacing="0">
+<TR>
+<TD width="680" height="35">
+</TD>
+</TR>
+<TR>
+<TD width="680" height="396">
+<TABLE width="680" border="0" cellpadding="0" cellspacing="0">
+<TR>
+<TD width="257" height="396">
+<TABLE width="257" border="0" cellpadding="0" cellspacing="0">
+<TR>
+<TD width="257" height="172">
+<FORM method="POST" name="rotater">
+</TD>
+</TR>
+<TD width="257" height="33" align="right"><A href="javascript:forward()" onClick="MM_swapImage('globe','','images/2.jpg',0)" onMouseOver="MM_displayStatusMsg('click to rotate globe leftXXX');return document.MM_returnValue"><IMG src="images/left_button.gif" width="63" height="33" border="0" alt="click to rotate globe to the leftXXX" title="click to rotate the globe to the left"></A>
+</TD>
+</TR>
+<TR>
+<TD width="257" height="90">
+</TD>
+</TR>
+<TR>
+<TD width="257" height="22" align="right" valign="middle"><IMG src="images/text_blanker.gif" name="text_blanker" width="257" height="22" id="text_blanker">
+</TD>
+</TR>
+<TR>
+<TD width="257" height="79">
+</TD>
+</TR>
+</TABLE>
+</TD>
+<TD width="22" height="396">
+</TD>
+<TD width="252" height="396" align="centre"><IMG src="images/1.jpg" alt="" name="mapslider" width="252" height="396" border="0" usemap="#globe1">
+</TD>
+<TD width="20" height="396">
+</TD>
+<TD width="62" height="396">
+<TABLE width="62" height="396" border="0" cellpadding="0" cellspacing="0">
+<TR>
+<TD width="62" height="172">
+</TD>
+</TR>
+<TR>
+<TD width="62" height="33"><A href="javascript:backward()" onMouseOver="MM_displayStatusMsg('click to rotate globe rightXXX');return document.MM_returnValue"><IMG src="images/right_button.gif" alt="click to rotate globe to the rightXXX" width="63" title="click to rotate globe to the rightXXX" width="63" height="33" border="0"></A>
+</TD>
+</TR>
+<TR>
+</FORM>
+<TD width="62" height="191">
+</TD>
+</TR>
+</TABLE>
+</TD>
+<TD width="67" height="396">
+</TD>
+<TD width="15" height="396">
+</TD>
+</TR>
+</TABLE>
+</TD>
+</TR>
+<TR>
+<TD width="680" height="14">
+</TD>
+</TR>
+<TR>
+<TD height="35">
+</TD>
+</TR>
+</TABLE>
+</BODY>
+</HTML>

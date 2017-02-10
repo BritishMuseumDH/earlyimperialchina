@@ -1,0 +1,89 @@
+carousel1_text_1=<font face="Arial" size="14">During the Han dynasty stoves, like the miniature model here, were used in daily life. The fire was lit underneath. Pots would rest in the holes on the stove.</font face>
+
+
+&carousel1_text_2=<font face="Arial" size="14">This brick would have been found inside the burial chamber. It shows transport by horse and cart, an archer on horseback and a welcome at a gate of a house.</font face>
+
+
+&carousel1_text_3=<font face="Arial" size="14">This is a miniature model of a waterwheel. Waterwheels were used in a range of situations from <font color='#990000'><a href="javascript:openGlos('glossary/i/irrigating.html', 'irri')"><u>irrigating</u></a></font> fields to channelling water.</font face>
+
+
+&carousel1_text_4=<font face="Arial" size="14">This jade ornament is in the shape of a silkworm. Silk threads are produced by unravelling the silkworms' cocoons. Jade was very precious and a sign of high status.</font face>
+
+
+&carousel1_text_5=<font face="Arial" size="14">Cooking pots fitted into the holes on stoves snugly. Everyday food eaten included rice, millet and vegetables. The rich also ate meat.</font face>
+
+
+&carousel1_text_6=<font face="Arial" size="14">A jade pendant showing a <font color='#990000'><a href="javascript:openGlos('glossary/c/cormorant.html', 'corm')"><u>cormorant</u></a></font> with a fish. The cormorant's neck is restricted so it is unable to swallow the fish. The fisherman collects the fish from the cormorant.  This method of fishing is still popular in the south of China, particularly along the Li River.</font face>
+
+
+&carousel1_text_7=<font face="Arial" size="14">This model of a pig sty shows a sow lying down with a container for food or water nearby. The object reflects the rural lifestyle of farmers in Imperial China.</font face>
+
+
+&carousel1_text_8=<font face="Arial" size="14">Models of sheep pens were included in tomb offerings so that the dead would have food to eat in the afterlife. The sheep were placed in a pen to keep them in one place so that they could not wander away.</font face>
+
+
+&carousel1_text_9=<font face="Arial" size="14">This model of a pond is inhabited by ducks and frogs, as well as fish and a tortoise. One man is casting a net for fish whilst another is aiming at the tree. Originally birds were sitting in the tree but have been lost.</font face>
+
+
+&carousel1_text_10=<font face="Arial" size="14">Bullocks and carts were the traditional form of transport in China. The cart is more elaborate than one used for moving everyday goods. The people do not have Chinese features, suggesting they are foreigners. Carts like this would have been used along the Silk Road.</font face>
+
+
+&carousel1_text_11=<font face="Arial" size="14">During the Han dynasty, a jade cicada was placed in the mouth of a dead person as it was believed that it represented <font color='#990000'><a href="javascript:openGlos('glossary/r/resurrection.html', 'resu')"><u>resurrection</u></a></font>. Jade was also seen as a material that would prevent the body from decaying. Jade could only have been afforded by the wealthy.</font face>
+
+
+&carousel1_text_12=<font face="Arial" size="14">The wealthy in the time of the Han dynasty used jade to seal the <font color='#990000'><a href="javascript:openGlos('glossary/o/orifice.html', 'orif')"><u>orifices</u></a></font> of the body before burial.  The Chinese believed that jade would prevent the body from decaying. Eye plaques were placed over the eyes of the deceased.</font face>
+
+
+&carousel1_text_13=<font face="Arial" size="14">Tomb figures like these were found just inside the entrance of the burial chamber. This group consists of an earth spirit, a <font color='#990000'><a href="javascript:openGlos('glossary/l/lokapala.html', 'loka')"><u>lokapala</u></a></font> and images of civil and military officials. Tomb objects sometimes included models of camels and horses too. Larger stone tomb guardians would be found lining either side of the <font color='#990000'><a href="javascript:openGlos('glossary/s/spirit_way.html', 'spir')"><u>Spirit Way</u></a></font>.</font face>
+
+
+&carousel1_text_14=<font face="Arial" size="14">Watchtowers like this model replica would have been built to survey the surrounding land and spot approaching enemies. Watchtowers were used along the Great Wall.</font face>
+
+
+&carousel1_text_15=<font face="Arial" size="14">This is a model of a type of house typically found in northern China. It is a two storey building and the roof design is clearly visible. Traditionally the rooms in a Chinese house were arranged around a courtyard.</font face>
+
+
+&carousel1_text_16=<font face="Arial" size="14">This soldier is wearing lamellar armour. He is a foreigner because he has a beard and non-Chinese facial features.</font face>
+
+
+&carousel1_text_17=<font face="Arial" size="14">Liubo was a game played in China. It is not known how the game was played as no rules have survived. The board seems to show a representation of the cosmos and is marked with <font color='#990000'><a href="javascript:openGlos('glossary/d/divination.html', 'divi')"><u>divination</u></a></font> symbols.</font face>
+
+
+
+
+
+
+
+&carousel2_text_1=<font face="Arial" size="14">The Great Wall was built by prisoners and conscripts. Conscripts came from the peasant class. They worked on public building programmes as a form of taxation to the emperor.  Prisoners found the conditions better than in jail. Nevertheless, conditions were so harsh that it is said for every 500m built a person died. </font face>
+
+
+
+&carousel2_text_2=<font face="Arial" size="14">It was built to protect the Chinese from the nomadic tribes of the North and North West. Under the First Emperor existing walls built by the Qin, Zhao and Yan states were joined together to form the Great Wall. </font face>
+
+
+
+&carousel2_text_3=<font face="Arial" size="14">As later dynasties gained control of more land they extended the wall to give themselves greater protection. The wall allowed the trade network to expand westward.</font face>
+
+
+
+&carousel2_text_4=<font face="Arial" size="14">Local materials were used to build the wall. Initially a stockade style barrier was built. Materials used in constructing this were wood, earth, mud, stone and twigs.</font face>
+
+
+
+&carousel2_text_5=<font face="Arial" size="14">In desert areas layers of sand, pebbles and twigs were used. Along the northeast part of the wall planks of wood made a casing. Mud was rammed solidly in between the casing.</font face>
+
+
+
+&carousel2_text_6=<font face="Arial" size="14">To protect China from invasion 2,500 garrisons and watchtowers were built along the entire length of the wall. They were established on sections of the wall which had been developed as the Silk Road expanded. In times of trouble these places could easily communicate to each other by beacon at night or by flag during the day. This picture shows a watchtower with the beams on the roof exposed. The beacon would be lit on the roof.</font face>
+
+
+
+&carousel2_text_7=<font face="Arial" size="14">The Great Wall has been rebuilt several times. Its height has varied between 7 and 14 metres. At the base it was 10 metres in width and at the top it was 5-6 metres in width. The remains seen today are from the Ming dynasty. This section of the wall is at Badaling, northwest of Beijing.</font face>
+
+
+
+
+
+
+
+

@@ -1,0 +1,31 @@
+  body {
+	background-color: White;
+	color: black;
+}
+
+ :link {
+	color: #a69879;
+	background-color : transparent;
+}
+
+ :visited {
+	color: Gray;
+	background-color : transparent;
+}
+
+ :active {
+	color: Navy;
+	background-color : transparent;
+}
+
+td {
+	font-family: arial,helvetica,sans-serif;
+	vertical-align : top;
+}
+
+DIV.bold {
+	color : black;
+	font-size : medium;
+	background-color : transparent;
+	text-align : center;
+}

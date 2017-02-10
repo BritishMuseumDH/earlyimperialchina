@@ -1,0 +1,15 @@
+t1=Clay is brought from the pit once it has been dug out.
+
+&t2=The clay is worked to make it easier to shape.
+
+&t3=The clay is shaped by mould or on a potter's wheel.
+
+&t4=The shaped goods are placed into <u><font color="#990000"><a href="javascript:openGlos('glossary/k/kilns.html','kiln')">kilns</a></font></u> for <u><font color="#990000"><a href="javascript:openGlos('glossary/f/firing.html','firi')">firing</a></font></u>.
+
+&t5=The fired goods are painted and <u><font color="#990000"><a href="javascript:openGlos('glossary/g/glazed.html','glaz')">glazed</a></font></u>. These are then baked to seal the glaze
+
+&t6=After an inspection the goods which passed are packed away ready to be transported.
+
+&reward=Most ceramics that have survived from the Qin and Han dynasties are models made for the tombs of wealthy people. In the Tang and Song dynasties official <u><font color="#990000"><a href="javascript:openGlos('glossary/k/kilns.html','kiln')">kilns</a></font></u> were set up to produce high quality goods for the emperor and also goods for general use. Ru ware was made exclusively for the emperor. If the imperial wares did not come up to scratch the pieces were destroyed.  The kilns usually took their name from the place or region where they were made. Types of ceramics made in the Tang and Song dynasties include Huangdao ware from Hunan, Ru ware from Henan , Ding ware from Hebei, Qingbai and Jizhou wares from Jiangxi and Guan ware from Hangzhou.
+&right=Well Done! You have placed all the pictures in the correct order. To find out more about types of ceramic wares in China press the 'get reward' button.
+&wrong=You have not placed the pictures in the correct order. To continue, please close this message box.

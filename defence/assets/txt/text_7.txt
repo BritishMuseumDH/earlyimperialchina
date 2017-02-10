@@ -1,0 +1,1 @@
+text_field=This mechanism was a huge step forward in weapon technology. This was installed at the rear part of the crossbow. When the bow was drawn the mechanism would be used to hold or release the arrows.<br><font color="#666666">oa1967.0810.51</font>&text_type="a"

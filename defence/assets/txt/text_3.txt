@@ -1,0 +1,1 @@
+text_field=Archers could either be conscripted soldiers or work in the army permanently. They used a quiver of arrows and bow. The bow was carried unstrung in a case until it was needed.<br><br>The use of mounted archers meant that they could move around the battlefield more quickly as light cavalry.<br><font color="#666666">oa1910.6-14.5</font>&text_type="a"

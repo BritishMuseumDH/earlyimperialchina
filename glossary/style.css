@@ -1,0 +1,19 @@
+ body {
+	background-color: #d6d0c9;
+	color: #000033;
+}
+ :link {
+	color: Blue;
+	background-color : transparent;
+}
+ :visited {
+	color: Purple;
+	background-color : transparent;
+}
+ :active {
+	color: Gray;
+	background-color : transparent;
+}
+td {
+	font-family: helvetica,arial,sans-serif;
+}
